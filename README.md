@@ -24,3 +24,13 @@ A simple guessing game where the user tries to guess a randomly generated number
 
 MinorProject II.py – Random Password Generator
 Generates a random password using letters and special characters with adjustable length.
+
+🎯 Learning Outcomes
+
+Understand Python syntax and structure.
+
+Learn to work with variables, conditions, loops, lists, and dictionaries.
+
+Gain hands-on experience with functions and reusable code.
+
+Build beginner projects to apply concepts in real-world use cases.
